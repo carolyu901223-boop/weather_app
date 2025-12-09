@@ -1,0 +1,5 @@
+{
+  "name": "Vibe Weather",
+  "description": "A visually stunning weather application providing real-time data and AI-powered outfit recommendations based on your local forecast.",
+  "requestFramePermissions": []
+}
